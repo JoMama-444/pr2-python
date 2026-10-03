@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "ваня",
+    "specialization": "электроник",
+    "available": true
+  },
+  {
+    "id": 2,
+    "name": "0",
+    "specialization": "0",
+    "available": true
+  }
+]

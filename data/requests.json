@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "client_name": "0",
+    "device_type": "python main.py",
+    "problem": "python main.py",
+    "master_id": 1,
+    "request_date": "2006-04-13",
+    "status": "Обращение зарегистрировано, мастер доступен"
+  }
+]
